@@ -1,3 +1,4 @@
 nimi: Mortti
 ikä: 6
 paino: 5kg
+väri: ruskea

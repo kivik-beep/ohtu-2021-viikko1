@@ -1,5 +1,7 @@
 Tämä tiedosto on kurssille ohjelmistotuotanto. 
 
+hei maailma!
+
 Samankaltaiset lyhenteet:
 OhTu = ohjelmistotuotanto
 OhTe = ohjelmistotekniikka
