@@ -1,0 +1,7 @@
+Tämä tiedosto on kurssille ohjelmistotuotanto. 
+
+Samankaltaiset lyhenteet:
+OhTu = ohjelmistotuotanto
+OhTe = ohjelmistotekniikka
+OhPe = ohjelmoinnin perusteet
+OhJa = ohjelmoinnin jatkokurssi

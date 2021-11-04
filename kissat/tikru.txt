@@ -1,0 +1,5 @@
+nimi: Tikru
+ikä: 18
+rotu: maatiainen
+väri: ruskea/harmaa
+kuvio: raidallinen

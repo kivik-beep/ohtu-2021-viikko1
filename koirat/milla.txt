@@ -1,0 +1,3 @@
+nimi: Milla
+ikä: ?
+rotu: norjan harmaa hirvikoira
