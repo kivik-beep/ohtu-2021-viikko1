@@ -1,3 +1,0 @@
-nimi: Milla
-ikä: 17
-rotu: norjan harmaa hirvikoira
