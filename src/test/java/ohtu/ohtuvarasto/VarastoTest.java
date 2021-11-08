@@ -161,7 +161,7 @@ public class VarastoTest {
     @Test
     public void toStringToimii() {
         String odotettu = "saldo = " + varasto.getSaldo() + ", vielä tilaa " + varasto.paljonkoMahtuu();
-        assertEquals(odotettu, varasto.toString());
+        assertEquals(odotettu, varasto.toString(), vertailuTarkkuus);
     }
 
 }
