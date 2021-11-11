@@ -26,7 +26,7 @@ public class Varasto {
         if (alkuSaldo < 0.0) {
             this.saldo = 0.0;
         } else { // mahtuu
-            this.saldo = alkuSaldo;  // täyteen ja ylimäärä hukkaan!
+            this.saldo = Math.min(alkusaldo, tilavuus);  // täyteen ja ylimäärä hukkaan!
         }
     }
 
